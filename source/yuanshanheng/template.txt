@@ -1,0 +1,13 @@
+榜单归属                {{ranking_name.DATA}}
+榜内排行                {{intra_ranking.DATA}}
+股票代码                {{stock_id.DATA}}
+股票名称                {{stock_name.DATA}}
+预测                       {{pred.DATA}}
+
+即时消息
+类型                       {{type.DATA}}
+等级                       {{importance.DATA}}
+股票代码                {{stock_id.DATA}}
+股票名称                {{stock_name.DATA}}
+消息内容                {{text.DATA}}
+风险提示                {{tip.DATA}}
