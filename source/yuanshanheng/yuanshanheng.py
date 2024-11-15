@@ -9,7 +9,6 @@ from pathlib import Path
 from loguru import logger
 
 
-
 class YuanShanHeng:
     def __init__(self, config_path):
         with open(Path(config_path), "r", encoding="utf-8") as f:
