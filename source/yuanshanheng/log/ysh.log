@@ -1,0 +1,218 @@
+2024-10-23 15:56:45.919 | INFO     | __main__:get_access_token:73 - use acc_temp access_token
+2024-10-23 15:56:45.920 | INFO     | __main__:send_ranking:61 - push ranking start
+2024-10-23 15:56:45.920 | INFO     | __main__:send_ranking_head:48 - push ranking_head
+2024-10-23 15:56:46.643 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'VAyUzIvpq3coJnkeb_nKbqaOrX4SxNYk0WV0LZfMctU', 'data': {'ranking_name': {'value': '涨幅榜'}}}
+2024-10-23 15:56:46.644 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692295060130742285}
+2024-10-23 15:56:46.644 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 15:56:46.644 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 15:56:47.242 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '威威帆帆'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 15:56:47.242 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692295070549393414}
+2024-10-23 15:56:47.242 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 15:56:47.243 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 15:56:47.737 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '2'}, 'stock_id': {'value': '111111'}, 'stock_name': {'value': '撒旦士大'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 15:56:47.737 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692295079592312832}
+2024-10-23 15:56:47.738 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 15:56:47.738 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 15:56:48.212 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '3'}, 'stock_id': {'value': '222222'}, 'stock_name': {'value': '算法入门'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 15:56:48.212 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692295087309832201}
+2024-10-23 15:56:48.213 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 15:56:48.213 | INFO     | __main__:send_ranking:65 - push ranking end
+2024-10-23 18:13:30.453 | INFO     | __main__:get_access_token:96 - refresh acc_temp access_token:{'access_token': '85_botQXqwdO5mtwz71dhPXylFwdvzI97MeGxtbkvm50ylFea0sFU7e1_hP91rllCdEvL1PEzx6IBlSSQo802Cdnab3Hno6gpeUoskkBDq6pjicDkzthTevvOxeaNEEPCgADAYJW', 'expires_in': 7200}
+2024-10-23 18:13:30.453 | INFO     | __main__:send_ranking:61 - push ranking start
+2024-10-23 18:13:30.454 | INFO     | __main__:send_ranking_head:48 - push ranking_head
+2024-10-23 18:13:31.080 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'VAyUzIvpq3coJnkeb_nKbqaOrX4SxNYk0WV0LZfMctU', 'data': {'ranking_name': {'value': '涨幅榜'}}}
+2024-10-23 18:13:31.080 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692432707926999043}
+2024-10-23 18:13:31.081 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 18:13:31.081 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 18:13:31.694 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '威威帆帆'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 18:13:31.695 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692432717926219778}
+2024-10-23 18:13:31.695 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 18:13:31.695 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 18:13:32.308 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '2'}, 'stock_id': {'value': '111111'}, 'stock_name': {'value': '撒旦士大'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 18:13:32.309 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692432727774445568}
+2024-10-23 18:13:32.309 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 18:13:32.309 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 18:13:32.883 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '3'}, 'stock_id': {'value': '222222'}, 'stock_name': {'value': '算法入门'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 18:13:32.883 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692432737991770119}
+2024-10-23 18:13:32.883 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 18:13:32.884 | INFO     | __main__:send_ranking:65 - push ranking end
+2024-10-23 18:13:32.884 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 18:13:33.446 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 18:13:33.447 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692432747319902210}
+2024-10-23 18:13:33.447 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 18:14:29.356 | INFO     | __main__:get_access_token:78 - use acc_temp access_token
+2024-10-23 18:14:29.357 | INFO     | __main__:send_ranking:61 - push ranking start
+2024-10-23 18:14:29.357 | INFO     | __main__:send_ranking_head:48 - push ranking_head
+2024-10-23 18:14:29.928 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'VAyUzIvpq3coJnkeb_nKbqaOrX4SxNYk0WV0LZfMctU', 'data': {'ranking_name': {'value': '涨幅榜'}}}
+2024-10-23 18:14:29.929 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692433695165497346}
+2024-10-23 18:14:29.929 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 18:14:29.929 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 18:14:30.440 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '威威帆帆'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 18:14:30.441 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692433704241971204}
+2024-10-23 18:14:30.441 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 18:14:30.441 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 18:14:31.010 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '2'}, 'stock_id': {'value': '111111'}, 'stock_name': {'value': '撒旦士大'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 18:14:31.011 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692433713268113414}
+2024-10-23 18:14:31.011 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 18:14:31.011 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 18:14:31.641 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '3'}, 'stock_id': {'value': '222222'}, 'stock_name': {'value': '算法入门'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 18:14:31.642 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692433724190081032}
+2024-10-23 18:14:31.642 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 18:14:31.642 | INFO     | __main__:send_ranking:65 - push ranking end
+2024-10-23 18:14:31.642 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 18:14:32.221 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 18:14:32.221 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692433734155747336}
+2024-10-23 18:14:32.221 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 18:14:32.222 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 18:14:32.715 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 18:14:32.716 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692433742695350275}
+2024-10-23 18:14:32.716 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 18:14:32.717 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 18:14:33.229 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 18:14:33.230 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692433751268507649}
+2024-10-23 18:14:33.230 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 18:14:33.230 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 18:14:33.732 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 18:14:33.733 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692433759623561216}
+2024-10-23 18:14:33.733 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 21:52:30.114 | ERROR    | __main__:get_access_token:90 - get access_token fail, please recheck app_id and app_secret
+2024-10-23 22:01:06.173 | INFO     | __main__:get_access_token:96 - refresh acc_temp access_token:{'access_token': '85_BJYM1DqraNLUTeRkqBEdQIiYP42MR0OMr_AzFBVE9l-3NXGOOJCutUyyTPZvTgTIOrWDxE6znTX0NyR5UJbiOur6z4syFZ0eZS5e3KiX9la2eEbpnBv3BblRARgCOBjABATFS', 'expires_in': 7200}
+2024-10-23 22:01:06.173 | INFO     | __main__:send_ranking:61 - push ranking start
+2024-10-23 22:01:06.173 | INFO     | __main__:send_ranking_head:48 - push ranking_head
+2024-10-23 22:01:06.907 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'VAyUzIvpq3coJnkeb_nKbqaOrX4SxNYk0WV0LZfMctU', 'data': {'ranking_name': {'value': '涨幅榜'}}}
+2024-10-23 22:01:06.907 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692661813998370823}
+2024-10-23 22:01:06.908 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:01:06.908 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 22:01:07.575 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '威威帆帆'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 22:01:07.576 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692661824870006784}
+2024-10-23 22:01:07.576 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:01:07.576 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 22:01:08.209 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '2'}, 'stock_id': {'value': '111111'}, 'stock_name': {'value': '撒旦士大'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 22:01:08.210 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692661836345622533}
+2024-10-23 22:01:08.210 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:01:08.210 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 22:01:08.723 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '3'}, 'stock_id': {'value': '222222'}, 'stock_name': {'value': '算法入门'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 22:01:08.724 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692661845321433103}
+2024-10-23 22:01:08.724 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:01:08.724 | INFO     | __main__:send_ranking:65 - push ranking end
+2024-10-23 22:01:08.725 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 22:01:09.366 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 22:01:09.367 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692661855387762699}
+2024-10-23 22:01:09.367 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:01:09.367 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 22:01:09.893 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 22:01:09.893 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692661865353428994}
+2024-10-23 22:01:09.893 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:01:09.893 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 22:01:10.385 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 22:01:10.385 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692661873893031942}
+2024-10-23 22:01:10.385 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:01:10.386 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 22:01:10.989 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 22:01:10.990 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692661883154055175}
+2024-10-23 22:01:10.990 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:08:00.280 | INFO     | __main__:get_access_token:78 - use acc_temp access_token
+2024-10-23 22:08:00.281 | INFO     | __main__:send_ranking:61 - push ranking start
+2024-10-23 22:08:00.281 | INFO     | __main__:send_ranking_head:48 - push ranking_head
+2024-10-23 22:08:00.833 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'VAyUzIvpq3coJnkeb_nKbqaOrX4SxNYk0WV0LZfMctU', 'data': {'ranking_name': {'value': '涨幅榜'}}}
+2024-10-23 22:08:00.833 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692668759698685952}
+2024-10-23 22:08:00.833 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:08:00.834 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 22:08:01.368 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '威威帆帆'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 22:08:01.368 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692668768557056002}
+2024-10-23 22:08:01.368 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:08:01.369 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 22:08:01.997 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '2'}, 'stock_id': {'value': '111111'}, 'stock_name': {'value': '撒旦士大'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 22:08:01.998 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692668778086514690}
+2024-10-23 22:08:01.998 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:08:01.998 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-10-23 22:08:02.537 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '3'}, 'stock_id': {'value': '222222'}, 'stock_name': {'value': '算法入门'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-10-23 22:08:02.537 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692668788370948098}
+2024-10-23 22:08:02.537 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:08:02.538 | INFO     | __main__:send_ranking:65 - push ranking end
+2024-10-23 22:08:02.538 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 22:08:03.054 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 22:08:03.055 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692668797027991552}
+2024-10-23 22:08:03.055 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:08:03.055 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 22:08:03.726 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 22:08:03.727 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692668807815741453}
+2024-10-23 22:08:03.727 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:08:03.727 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 22:08:04.284 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 22:08:04.285 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692668817596858375}
+2024-10-23 22:08:04.285 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-10-23 22:08:04.285 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-10-23 22:08:04.834 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-10-23 22:08:04.835 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3692668826539114497}
+2024-10-23 22:08:04.835 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:45:32.738 | INFO     | __main__:get_access_token:96 - refresh acc_temp access_token:{'access_token': '86_nbHnsBtrZime44shdO42uC750UN2YNjChVO7m5gmGrnnhb_bWyMPO4n1EJXV-ihCQLWSz8c3L6FML_GSZgEtoDU2YN2kUL0JC9d9UAIC0safCaFFtQjyzwXANScVQRjAJAHCD', 'expires_in': 7200}
+2024-11-16 01:45:32.739 | INFO     | __main__:send_ranking:61 - push ranking start
+2024-11-16 01:45:32.739 | INFO     | __main__:send_ranking_head:48 - push ranking_head
+2024-11-16 01:45:33.575 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'VAyUzIvpq3coJnkeb_nKbqaOrX4SxNYk0WV0LZfMctU', 'data': {'ranking_name': {'value': '涨幅榜'}}}
+2024-11-16 01:45:33.575 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726227431989035008}
+2024-11-16 01:45:33.576 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:45:33.576 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-11-16 01:45:34.268 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '威威帆帆'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-11-16 01:45:34.270 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726227444353843203}
+2024-11-16 01:45:34.270 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:45:34.271 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-11-16 01:45:34.985 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '2'}, 'stock_id': {'value': '111111'}, 'stock_name': {'value': '撒旦士大'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-11-16 01:45:34.985 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726227456819314688}
+2024-11-16 01:45:34.986 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:45:34.986 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-11-16 01:45:35.803 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '3'}, 'stock_id': {'value': '222222'}, 'stock_name': {'value': '算法入门'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-11-16 01:45:35.803 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726227469737771008}
+2024-11-16 01:45:35.804 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:45:35.804 | INFO     | __main__:send_ranking:65 - push ranking end
+2024-11-16 01:45:35.804 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-11-16 01:45:36.518 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-11-16 01:45:36.519 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726227482891108353}
+2024-11-16 01:45:36.519 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:45:36.519 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-11-16 01:45:37.180 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-11-16 01:45:37.181 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726227494500941824}
+2024-11-16 01:45:37.181 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:45:37.181 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-11-16 01:45:37.847 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-11-16 01:45:37.848 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726227504969924610}
+2024-11-16 01:45:37.848 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:45:37.848 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-11-16 01:45:38.563 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-11-16 01:45:38.564 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726227516512649217}
+2024-11-16 01:45:38.564 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:47:14.767 | INFO     | __main__:get_access_token:78 - use acc_temp access_token
+2024-11-16 01:47:14.767 | INFO     | __main__:send_ranking:61 - push ranking start
+2024-11-16 01:47:14.767 | INFO     | __main__:send_ranking_head:48 - push ranking_head
+2024-11-16 01:47:15.411 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'VAyUzIvpq3coJnkeb_nKbqaOrX4SxNYk0WV0LZfMctU', 'data': {'ranking_name': {'value': '涨幅榜'}}}
+2024-11-16 01:47:15.411 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726229142862413825}
+2024-11-16 01:47:15.412 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:47:15.412 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-11-16 01:47:16.024 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '威威帆帆'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-11-16 01:47:16.025 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726229152693862401}
+2024-11-16 01:47:16.025 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:47:16.025 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-11-16 01:47:16.639 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '2'}, 'stock_id': {'value': '111111'}, 'stock_name': {'value': '撒旦士大'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-11-16 01:47:16.640 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726229163246731264}
+2024-11-16 01:47:16.640 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:47:16.640 | INFO     | __main__:send_ranking_body:55 - push ranking_body
+2024-11-16 01:47:17.253 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'v-7fPeVJszvbfXOhz1NzUYRDcitZxBd_MamGiK_G95Y', 'data': {'ranking_name': {'value': '涨幅榜'}, 'intra_ranking': {'value': '3'}, 'stock_id': {'value': '222222'}, 'stock_name': {'value': '算法入门'}, 'pred': {'value': '[2, 3] [2, 5]'}}}
+2024-11-16 01:47:17.254 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726229174017703937}
+2024-11-16 01:47:17.254 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:47:17.254 | INFO     | __main__:send_ranking:65 - push ranking end
+2024-11-16 01:47:17.255 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-11-16 01:47:17.970 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-11-16 01:47:17.971 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726229184637681665}
+2024-11-16 01:47:17.971 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:47:17.971 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-11-16 01:47:18.688 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-11-16 01:47:18.689 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726229196566282240}
+2024-11-16 01:47:18.689 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:47:18.689 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-11-16 01:47:19.405 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-11-16 01:47:19.405 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726229208478105603}
+2024-11-16 01:47:19.406 | SUCCESS  | __main__:pusher:42 - push successfully
+2024-11-16 01:47:19.406 | INFO     | __main__:send_instant_message:68 - push instant_message
+2024-11-16 01:47:20.018 | INFO     | __main__:pusher:33 - send:::{'touser': 'ozLXd6Fi2ZWZPunqbzuleA0M56Hg', 'template_id': 'E_9a8cD0VPq1QrNFpsaHBqR-_mQUcSrnChoxmasQO6Q', 'data': {'type': {'value': '急涨预警'}, 'importance': {'value': '1'}, 'stock_id': {'value': '000000'}, 'stock_name': {'value': '上证指数'}, 'text': {'value': '5分钟内急速拉升，请关注'}, 'tip': {'value': '考虑见顶卖出'}}}
+2024-11-16 01:47:20.018 | INFO     | __main__:pusher:34 - recv:::{'errcode': 0, 'errmsg': 'ok', 'msgid': 3726229219181969410}
+2024-11-16 01:47:20.018 | SUCCESS  | __main__:pusher:42 - push successfully
